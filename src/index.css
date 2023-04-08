@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test-title {
+  @apply border border-pink-300 mx-auto text-center;
+}
